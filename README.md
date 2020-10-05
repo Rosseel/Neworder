@@ -3,7 +3,7 @@ Jan Pottie
 
 https://github.com/settings/profile
 
-![Jan](https://github.com/Rosseel/Neworder/blob/Jan/JanPottie.png)
+![Jan](JanPottie.png)
 
 A mind is like a parachute. It doesn’t work if it is not open
 
