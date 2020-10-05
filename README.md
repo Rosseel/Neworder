@@ -1,5 +1,5 @@
 **NEWORDER**
-
+Maryame moet lijntjes verwijderen
 ![Logo](https://github.com/Rosseel/Neworder/blob/Nicolas/NEWORDER.png)
 
 # Nicolas Demuynck
@@ -15,7 +15,7 @@
 # Bernard Rosseel
 * https://github.com/Rosseel
 * I want to become a space-archeologist, a 21th century Indiana Jones including lasso and cowboyhat!!!
-
+Maryame moet lijntjes verwijderen
 ![Bernard Rosseel](bernard.png)
 
 
@@ -38,6 +38,6 @@
 * Explorer in Hicsunt Nanodragones in Terahertz Timeresolution, bending A.I. into a research tool for the Life Sciences,or anything else ten times more down to earth.
 
 ![Jan](janpottie.png)
-
+Maryame moet lijntjes verwijderen
 > A mind is like a parachute. It doesn’t work if it is not open
-
+Maryame moet lijntjes verwijderen
