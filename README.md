@@ -41,3 +41,8 @@
 
 > A mind is like a parachute. It doesn’t work if it is not open
 
+----------------------------
+
+
+# Jan Pottie
+A mind is like ...
